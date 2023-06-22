@@ -5,20 +5,20 @@ This repository contains the work in the AI Engineer Cognizant Virtual Training 
   
  * CRISP-DM
   
-  Data cleaning
+ * Data cleaning
   
-  Feature Engineering
+ * Feature Engineering
   
-  Data Visualisation
+ * Data Visualisation
   
-  Machine Learning
+ * Machine Learning
   
-  Python
+ * Python
   
-  Communication
+ * Communication
   
-  Quality Assurance
+ * Quality Assurance
   
-  Evaluation
+ * Evaluation
   
-  Interpretability
+ * Interpretability
