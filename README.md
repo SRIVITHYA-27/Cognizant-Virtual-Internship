@@ -1,7 +1,7 @@
 # Cognizant-Virtual-Internship
 This repository contains the work in the AI Engineer Cognizant Virtual Training and Internship program from the Forage
 # The work includes an entire workflow for a Datascientist
-  Data insights
+ * Data insights
   
  * CRISP-DM
   
